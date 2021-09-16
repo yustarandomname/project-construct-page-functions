@@ -1,0 +1,27 @@
+{
+  "name": "server",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Cloud functions for project-construct-page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abel de Bruijn",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "node-fetch": "^3.0.0",
+    "nodemon": "^2.0.12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yustarandomname/project-construct-page-functions.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yustarandomname/project-construct-page-functions/issues"
+  },
+  "homepage": "https://github.com/yustarandomname/project-construct-page-functions#readme"
+}
